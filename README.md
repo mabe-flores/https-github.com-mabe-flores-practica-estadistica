@@ -1,1 +1,2 @@
-# https-github.com-mabe-flores-practica-estadistica
+# Práctica Estadística 
+Maria Betania Flores
